@@ -101,7 +101,7 @@ console.log(plants)
                 </div>}
             </Col>
           </Row>
-        {/* <img src={pl1} width={100} style={{position:'absolute', bottom:0, left:0, mixBlendMode:'multiply'}}></img> */}
+        <img src={pl1} width={100} style={{position:'absolute', bottom:0, left:0, mixBlendMode:'multiply'}}></img>
         </Layout>
       </Layout>
 

@@ -99,8 +99,8 @@ function CreatePlantPage() {
                 <Button style={{marginTop:'4%', marginBottom:'2%', background:'#61B97E'}} type='primary' onClick={onSubmit}>Добавить</Button>
                 </div>
                 <Link to={'/results'} style={{ color: 'white', textDecoration: 'underline' }}><h2>Вернуться к поиску</h2></Link>
-                {/* <img src={'https://i.pinimg.com/564x/05/26/45/052645488d43e0a883bbbc90a78f5db1.jpg'} alt="BigCo Inc. logo" width={100} style={{position:'absolute', bottom:0,right:0, mixBlendMode:'multiply'}}></img>
-        <img src={pl1} width={100} style={{position:'absolute', bottom:0, left:0, mixBlendMode:'multiply'}}></img> */}
+                <img src={'https://i.pinimg.com/564x/05/26/45/052645488d43e0a883bbbc90a78f5db1.jpg'} alt="BigCo Inc. logo" width={100} style={{position:'absolute', bottom:0,right:0, mixBlendMode:'multiply'}}></img>
+        <img src={pl1} width={100} style={{position:'absolute', bottom:0, left:0, mixBlendMode:'multiply'}}></img>
         </Layout>
 
 
