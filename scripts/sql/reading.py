@@ -6,7 +6,7 @@ except ImportError:
 import pathlib
 import psycopg2 
 
-def read_config_file(config_path=str(pathlib.Path().absolute()) + r'\\scripts\\sql\\database.ini'):
+def read_config_file(config_path=str(pathlib.Path().absolute())):
     # instantiate
     config = ConfigParser()
 
